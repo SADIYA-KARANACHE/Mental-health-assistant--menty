@@ -4,7 +4,7 @@ from langchain.chains import ConversationChain
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
 
 # Directly set your Groq API key here
-api_key = "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"  
+api_key = "YOUR_API_KEY"  
 
 def main():
     st.title("Mental Health Support Chatbot")
